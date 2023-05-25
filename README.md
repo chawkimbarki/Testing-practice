@@ -1,2 +1,2 @@
 # Testing-practice
-as the suggest, this is a repo for practicing testing.
+as the name suggests, this is a repo for practicing testing.
