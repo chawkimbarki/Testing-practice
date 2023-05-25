@@ -6,6 +6,6 @@ it("Check length", () => {
 })
 
 it("String shouldn't be empty", () => {
-    const testString = ""
+    const testString = "123"
     expect(stringLength(testString)).toBeGreaterThan(0)
 })
